@@ -28,5 +28,6 @@ int main(){
     for(int i=l.length()-1; i>=0; i--){
         cout<<l[i];
     }
+    cout<<""<<endl;
     return 0;
 }
